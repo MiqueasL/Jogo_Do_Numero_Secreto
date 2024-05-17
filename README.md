@@ -1,8 +1,7 @@
 # Jogo_Do_Numero_Secreto
 
-Formação One, Oracle + Alura
+Jogo do número secreto atividade feita na formação One oracle next education, Oracle + Alura.
 
-#
 Tecnologias usadas
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
